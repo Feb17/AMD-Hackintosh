@@ -1,5 +1,5 @@
-# AMD-Hackintosh
-### Record for building a AMD-based Hackintosh  
+# AMD Hackintosh
+### Record of building a AMD-based Hackintosh  
 
 系统: macOS Catalina 10.15.6  
 机型: iMacPro1,1  
